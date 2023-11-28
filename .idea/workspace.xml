@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="70fc357a-2b25-4970-9e07-0acf3ff37ac2" name="Changes" comment="" />
+    <list default="true" id="bfdaedb5-a1eb-43a9-9928-d4dda4b5e65d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +16,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "asai2001"
+  }
 }]]></component>
-  <component name="ProjectId" id="2YkPaqeBIm9ZjlOb0sh8KSpb7Mb" />
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="361d1832-b015-4ca1-9ad6-629fc9289d1b" />
+        <option name="url" value="https://github.com/asai2001/akreditasi.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2YkQEo3TzJWoc4at4SPdgm6LCX3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,18 +44,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "deploy",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/asaii/Downloads/flutter_akreditasi_flutters2/build/web",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="70fc357a-2b25-4970-9e07-0acf3ff37ac2" name="Changes" comment="" />
-      <created>1701066670784</created>
+      <changelist id="bfdaedb5-a1eb-43a9-9928-d4dda4b5e65d" name="Changes" comment="" />
+      <created>1701066988498</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1701066670784</updated>
+      <updated>1701066988498</updated>
     </task>
     <servers />
   </component>
